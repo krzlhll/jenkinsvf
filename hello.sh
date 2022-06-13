@@ -1,2 +1,3 @@
 date
 uname -a
+hostname
